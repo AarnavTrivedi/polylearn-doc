@@ -1,13 +1,15 @@
 import React from 'react'
+import Image from 'next/image'
+
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
-  project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
-  },
+  // Add Polylearn logo later
+  logo: <span>Polylearn
+    
+    </span>,
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/ZTQ3wtRMY7',
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {

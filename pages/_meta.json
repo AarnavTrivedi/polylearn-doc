@@ -1,15 +1,15 @@
 {
   "index": "Introduction",
   "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "mod1": "Mod1: Intro To Python",
   "about": {
     "title": "About",
     "type": "page"
   },
-  "contact": {
-    "title": "Contact ↗",
+  "main-site": {
+    "title": "Main Site ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://polylearn.org/",
     "newWindow": true
   }
 }
